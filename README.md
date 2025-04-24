@@ -35,7 +35,7 @@ A simple and user-friendly web application built with React that allows you to c
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/unit-converter.git
+git clone https://github.com/Andypj004/unit-converter.git
 cd unit-converter
 ```
 2. Install dependencies:
